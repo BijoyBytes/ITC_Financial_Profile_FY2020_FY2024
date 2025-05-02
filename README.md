@@ -1,7 +1,8 @@
 # 📊 ITC Ltd — One-Page Financial Profile (FY2020–FY2024)
 
-ITC Limited is an Indian conglomerate company headquartered in Kolkata. ITC has a diversified presence across industries such as FMCG, hotels, software, packaging, paperboards, specialty papers and agribusiness. The company has 13 businesses in 5 segments. It exports its products in 90 countries. Its products are available in 6 million retail outlets.
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/b5a24a8c-717d-4b95-83cc-2e2a6cf4bea9)">
+| ![ITC Limited Logo](https://github.com/BijoyBytes/ITC_Financial_Profile_FY2020_FY2024/blob/main/ITC_Limited_Logo.png?raw=true) | ITC Limited is an Indian conglomerate, headquartered in Kolkata.[9] It has a presence across six business segments, namely FMCG, agribusiness, information technology, paper products, and packaging. It generates a plurality of its revenue from tobacco products.In terms of market capitalization, ITC is the second-largest FMCG company in India and the third-largest tobacco company in the world. It employs 36,500 people at more than 60 locations across India. Its products are available in 6 million retail outlets in India and exported to 90 countries. |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 ---
 
 
