@@ -1,8 +1,9 @@
 # 📊 ITC Ltd — One-Page Financial Profile (FY2020–FY2024)
 
-This project is a concise yet data-rich **one-page dashboard** capturing the financial performance, valuation, and strategic direction of **ITC Limited**, one of India's top conglomerates. It was built as a personal project to demonstrate skills in **financial analysis**, **business interpretation**, and **data storytelling**.
-
+ITC Limited is an Indian conglomerate company headquartered in Kolkata. ITC has a diversified presence across industries such as FMCG, hotels, software, packaging, paperboards, specialty papers and agribusiness. The company has 13 businesses in 5 segments. It exports its products in 90 countries. Its products are available in 6 million retail outlets.
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/b5a24a8c-717d-4b95-83cc-2e2a6cf4bea9)">
 ---
+
 
 ## 1. 🎯 Objective
 
@@ -11,8 +12,8 @@ To create an impactful one-page financial dashboard that captures the essence of
 ---
 
 ## 🔍 Key Takeaways from the Report
+![image](https://github.com/user-attachments/assets/aaed0329-a795-4291-ba63-35e0365cac3a)
 
-![image](https://github.com/user-attachments/assets/e2ffc9f1-36e3-4244-87b1-87458cfe1bf4)
 
 ### 🏷 Sales & Growth
 - **FY24 Revenue:** ₹70,866 Cr  
