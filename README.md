@@ -1,6 +1,6 @@
 # 📊 ITC Ltd — One-Page Financial Profile (FY2020–FY2024)
 
-| ![ITC Limited Logo](https://github.com/BijoyBytes/ITC_Financial_Profile_FY2020_FY2024/blob/main/ITC_Limited_Logo.png?raw=true) | ITC Limited is an Indian conglomerate, headquartered in Kolkata.[9] It has a presence across six business segments, namely FMCG, agribusiness, information technology, paper products, and packaging. It generates a plurality of its revenue from tobacco products.In terms of market capitalization, ITC is the second-largest FMCG company in India and the third-largest tobacco company in the world. It employs 36,500 people at more than 60 locations across India. Its products are available in 6 million retail outlets in India and exported to 90 countries. |
+| ![ITC Limited Logo](https://github.com/BijoyBytes/ITC_Financial_Profile_FY2020_FY2024/blob/main/ITC_Limited_Logo.png?raw=true) | ITC Limited is an Indian conglomerate, headquartered in Kolkata. It has a presence across six business segments, namely FMCG, agribusiness, information technology, paper products, and packaging. It generates a plurality of its revenue from tobacco products.In terms of market capitalization, ITC is the second-largest FMCG company in India and the third-largest tobacco company in the world. It employs 36,500 people at more than 60 locations across India. Its products are available in 6 million retail outlets in India and exported to 90 countries. |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -36,6 +36,8 @@ To create an impactful one-page financial dashboard that captures the essence of
 - **ROE:** 27.46%  
 - **ROCE:** 37.73%  
 - Indicates **strong returns on shareholder and total capital**  
+
+![image](https://github.com/user-attachments/assets/b401353a-6019-41fe-96e5-2a2ff8ab5c03)
 
 ### 💸 Shareholder Returns
 - **EPS (FY24):** ₹16.39  
