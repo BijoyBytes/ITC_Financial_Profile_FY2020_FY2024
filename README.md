@@ -11,6 +11,23 @@
 To create an impactful one-page financial dashboard that captures the essence of ITC Limited’s performance from FY2020 to FY2024. By leveraging advanced financial concepts like ratio analysis, CAGR, and enterprise valuation, this project provides a comprehensive yet concise summary of ITC's sales growth, profitability, valuation multiples, and strategic direction. The aim is to transform complex financial data into a clear, engaging visual narrative that offers actionable insights for business decision-making.
 
 ---
+## 📂 Excel Model Overview (ITC.xlsx)
+
+The `ITC.xlsx` file contains the core financial analysis model for ITC Limited, covering FY2020 to FY2024. Each sheet serves a distinct purpose in structuring valuation, profitability, and liquidity insights.
+### 🧾 Sheet Breakdown
+
+| Sheet Name        | Description                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| **Teaser**        | Executive summary highlighting ITC’s key financial ratios and performance trends                 |
+| **Share Price**   | Historical share price data and market capitalization calculations                              |
+| **Input Sheet**   | Assumption-driven inputs for valuation parameters like market cap, debt, and share count        |
+| **Profit & Loss** | Detailed income statement with revenue, EBITDA, net profit, EPS, and margin analysis            |
+| **Quarters**      | Quarterly financial trends for detecting seasonal performance variations                        |
+| **Balance Sheet** | Assets, liabilities, and equity structure for capital efficiency calculations                    |
+| **Cash Flow**     | Operating, investing, and financing cash flows assessing liquidity and reinvestment strategies  |
+| **Customization** | Dynamic toggles for adjusting metric displays and scenario analysis                             |
+| **Data Sheet**    | Consolidated dataset with raw and calculated metrics for final dashboard visualization          |
+
 
 ## 🔍 Key Takeaways from the Report
 ![image](https://github.com/user-attachments/assets/aaed0329-a795-4291-ba63-35e0365cac3a)
@@ -84,6 +101,21 @@ Skilled in **extracting insights from complex data** to support valuation, strat
 | `Dividend Payout = DPS / EPS` | Capital return policy            |
 
 ---
+
+## Strategic Recommendations to Improve ITC's Performance
+#### 1️⃣ Expand High-Margin FMCG Segments  
+Strengthen premium packaged foods and personal care brands to boost profitability.
+
+#### 2️⃣ Optimize Capital Structure for Growth  
+Improve **ROCE** by balancing cash reserves with strategic reinvestments.
+
+#### 3️⃣ Boost Shareholder Value  
+Consider **share buybacks** or reinvestment strategies to improve market confidence.
+
+#### 4️⃣ Enhance Supply Chain Efficiency  
+Leverage **AI-driven forecasting** to optimize inventory turnover and reduce operational costs.
+
+
 
 ## 🔗 Resources & References  
 - ITC Ltd Annual Reports (2020–2024)  
