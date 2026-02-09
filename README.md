@@ -14,7 +14,7 @@ To create an impactful one-page financial dashboard that captures the essence of
 ##  Excel Model Overview (ITC.xlsx)
 
 The `ITC.xlsx` file contains the core financial analysis model for ITC Limited, covering FY2020 to FY2024. Each sheet serves a distinct purpose in structuring valuation, profitability, and liquidity insights.
-### 🧾 Sheet Breakdown
+### Sheet Breakdown
 
 | Sheet Name        | Description                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
@@ -76,12 +76,12 @@ Analyst with a strong foundation in **financial modeling, business strategy, and
 Skilled in **extracting insights from complex data** to support valuation, strategic planning, and performance analysis.
 
 
-## 📬 Connect with Me:
+##  Connect with Me:
 - **LinkedIn:** [ LinkedIn Profile](www.linkedin.com/in/bijoybytes)  
 - **Email:** bijoypaul.connect@gmail.com 
 
 ---
-## 🧠 Key Learnings  
+##  Key Learnings  
 
 - **Applied ratio decomposition techniques** (DuPont analysis) to assess profitability and capital efficiency.  
 - **Used CAGR and log-based growth modeling** to evaluate long-term revenue trends and performance consistency.  
